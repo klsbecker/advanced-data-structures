@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "*.m4": "c",
+        "*.c": "c",
+        "*.tex": "latex",
+        "*.xml": "xml",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "string_view": "cpp"
+    }
+}
