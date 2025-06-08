@@ -11,5 +11,9 @@
         "random": "cpp",
         "limits": "cpp",
         "string_view": "cpp"
-    }
+    },
+    "cSpell.language": "pt-BR",
+    "cSpell.words": [
+        "Dijkstra"
+    ],
 }

@@ -1,0 +1,49 @@
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+
+# LaTeX intermediate and output files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# PDF and other output files
+# *.pdf For fast readers, we keep the PDF files in the repository.
+*.dvi
+*.ps
+
+# Editor backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Latexmk
+latexmkrc
+
+# Subfolders
+*/_minted*
+*/auto/*
